@@ -1,4 +1,9 @@
 class CreateDogs < ActiveRecord::Migration[5.2]
-  def change
+  up
+  
+  end
+  
+  down
+  
   end
 end
