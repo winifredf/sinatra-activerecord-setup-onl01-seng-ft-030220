@@ -12,6 +12,4 @@ gem 'rake'
 group :development do
   gem 'shotgun'
   gem 'pry'
-	gem 'shotgun'
-	gem 'pry'
 end
